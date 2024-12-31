@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	height: 100px;
+	background-color: gray;
+}
+
+.logo{
+
+	height: 65px;
+    width: 9%;
+    float: left;
+    margin: 10px 15%;
+    font-size: 20px;
+    color: skyblue;
+}
+
+.content{
+
+	height: 700px;
+	background-color: skyblue;
+
+.wrapper{
+
+}
+
+.content_text{
+	    width: 40%;
+        height: 420px;
+        margin: 25px 5%;
+        float: left;
+        background-color: lightskyblue;
+}
+
+.content_image {
+		margin: 35px 15%;
+	 	height: 200px;
+ 
+}
+
+.content_from{
+		width: 40%;
+        float: right;
+        height: 670px;
+        margin: 20px 4%;
+        background-color: oldlace;
+    }
+
+    .wrappert{
+    	margin: 20px 5%;
+    }
+
+    .label{
+    	font-size: 25px;
+    }
+
+    .first_name, .last_name, .email, .password, .dob, .phone_number{
+    	width: 50%;
+        height: 25px;
+        font-size: 15px;
+    }
+
+    .btna, .btnb{
+    	height: 30px;
+        width: 25%;
+        border: 1px solid red;
+        font-size: 20px;
+        color: orangered;
+        border-radius: 10px;
+    }
